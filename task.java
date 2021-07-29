@@ -1,5 +1,5 @@
-// A simple Java program to implement Game of Life
-public class GameOfLife
+
+public class Game
 {
     public static void main(String[] args)
     {
